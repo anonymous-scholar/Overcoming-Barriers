@@ -5,4 +5,4 @@ This repository contains anonymously hosted code-base for the submission **Overc
 Please follow the steps below to setup your environment to run this code-base:
 * Run ```pip install -r requirements.txt```
 * The requirements.txt specifically does not contain pip installation for PyTorch and Huggingface:
-..* Please install PyTorch appropriate for you CUDA setup [https://pytorch.org]
+..1 Please install PyTorch appropriate for you CUDA setup [https://pytorch.org]
